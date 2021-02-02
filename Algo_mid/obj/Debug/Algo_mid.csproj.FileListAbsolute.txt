@@ -1,0 +1,10 @@
+C:\Users\Rachanon\source\repos\Algo_mid\Algo_mid\bin\Debug\Algo_mid.exe.config
+C:\Users\Rachanon\source\repos\Algo_mid\Algo_mid\bin\Debug\Algo_mid.exe
+C:\Users\Rachanon\source\repos\Algo_mid\Algo_mid\bin\Debug\Algo_mid.pdb
+C:\Users\Rachanon\source\repos\Algo_mid\Algo_mid\obj\Debug\Algo_mid.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\Algo_mid\Algo_mid\obj\Debug\Algo_mid.Form1.resources
+C:\Users\Rachanon\source\repos\Algo_mid\Algo_mid\obj\Debug\Algo_mid.Properties.Resources.resources
+C:\Users\Rachanon\source\repos\Algo_mid\Algo_mid\obj\Debug\Algo_mid.csproj.GenerateResource.cache
+C:\Users\Rachanon\source\repos\Algo_mid\Algo_mid\obj\Debug\Algo_mid.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\Algo_mid\Algo_mid\obj\Debug\Algo_mid.exe
+C:\Users\Rachanon\source\repos\Algo_mid\Algo_mid\obj\Debug\Algo_mid.pdb

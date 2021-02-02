@@ -1,0 +1,6 @@
+C:\Users\Rachanon\source\repos\Algo_mid\mid_3\bin\Debug\mid_3.exe.config
+C:\Users\Rachanon\source\repos\Algo_mid\mid_3\bin\Debug\mid_3.exe
+C:\Users\Rachanon\source\repos\Algo_mid\mid_3\bin\Debug\mid_3.pdb
+C:\Users\Rachanon\source\repos\Algo_mid\mid_3\obj\Debug\mid_3.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\Algo_mid\mid_3\obj\Debug\mid_3.exe
+C:\Users\Rachanon\source\repos\Algo_mid\mid_3\obj\Debug\mid_3.pdb
